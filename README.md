@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @CrysisDavid
-- 👀 I’m interested in develop apps and learn
-- 🌱 I’m currently learning JavaScript and looking for another challenge I also use python 
+- 👀 I’m interested in front end and learn every day.
+- 🌱 I’m currently learning English and looking for another challenge my native language is Spanish.
+
 - 📫 How to reach me davidsoliss123@gmail.com
 
 
