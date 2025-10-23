@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @CrysisDavid
-- 👀 I’m interested in front end and learn every day.
-- 🌱 I’m currently learning English and looking for another challenge my native language is Spanish.
+- 👀 I’m a full stack dev
 
 - 📫 How to reach me davidsoliss123@gmail.com
 
